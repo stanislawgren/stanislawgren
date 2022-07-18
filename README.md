@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanisław</h1>
 <h3 align="center">A passionate Full-Stack developer. I love to gain new experience in programming, and my priority while working is to provide the highest possible services</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanislawgren" alt="stanislawgren" /></a> </p>
-
 - 🔭 I’m currently working on [HomeWRK - remote lessons application.](https://backend.homewrk.org)
 
 <h3 align="left">Connect with me:</h3>
