@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanisław</h1>
-<h3 align="center">A passionate Full-Stack developer. I love to gain new experience in programming, and my priority while working is to provide the highest possible services</h3>
+<h3 align="left">A passionate Full-Stack developer. I love to gain new experience in programming, and my priority while working is to provide the highest possible services</h3>
 
 - 🔭 I’m currently working on [HomeWRK - remote lessons application.](https://backend.homewrk.org)
 
