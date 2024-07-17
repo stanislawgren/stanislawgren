@@ -1,7 +1,9 @@
 <h2 align="center">Hi 👋, I'm Stanisław</h2>
 <h4 align="left">A passionate Full-Stack developer. I love to gain new experience in programming, and my priority while working is to provide the highest possible services. I'm also studying Computer Science on Politechnika Krakowska.</h4>
 
-- 🔭 I’m currently working on [HomeWRK - remote lessons application.](https://backend.homewrk.org)
+- 🔭 I was working on [HomeWRK - remote lessons application.](https://backend.homewrk.org)
+- 🔭 And also [Intranet](https://intranet.iqs.app/login)
+- 🔭 I currently working on mini-games app [Brainfights]()
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
