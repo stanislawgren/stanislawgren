@@ -5,7 +5,7 @@
 - 🔭 And also [Intranet](https://intranet.iqs.app/login)
 - 🔭 I was responsible for coding front-end side of Secaiure webpage [Secaiure](https://www.secaiure.com/)
 - 🔭 I created the design, and was responsible for coding it, and implementing the site into production, for the AC Klimatyzacje company. [AC Klimatyzacje](https://acklimatyzacje.pl/)
-- 🔭 I currently working on mini-games app [Brainfights]()
+- 🔭 Made mini-games app [Brainfights]()
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
